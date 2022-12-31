@@ -66,7 +66,7 @@ const doctorClient = {
         age,
         specialist,
         workingHrs,
-        appointmentsPerOneDay:appointments,
+        appointments:appointments,
         address,
         role: "2",
         salary,
